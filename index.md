@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-# Intro to Creative Code
+# VIS 42 - Intro to Creative Code - Fall 2025
 [Schedule](#topics-and-schedule) | [Description](#description) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
 
