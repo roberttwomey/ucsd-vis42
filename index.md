@@ -5,7 +5,7 @@ layout: home
 
 # Intro to Creative Code
 
-VIS 42, Fall 2025 at UC San Diego
+Fall 2025 at UC San Diego
 
 [Schedule](#topics-and-schedule) | [Description](#description) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
