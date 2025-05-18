@@ -27,7 +27,7 @@ This course provides students with a foundation in programming and computational
 **Restrictions** students who have received credit for any of CSE 8A, 8B, 11, 6R, COGS 18, BILD 62, DSC20 (or equivalents) may not enroll for credit in this course.
 
 ## Tools
-We will use the open source creative coding language p5.js ([link](https://p5js.org/)) within a jupyterlite environment. Try it out [here](https://p5nb.vercel.app/tree/index.html)!
+We will use the open source creative coding language [p5.js](https://p5js.org/) within a jupyterlite environment. Try it out [here](https://p5nb.vercel.app/tree/index.html)!
 
 ## Resources
 - **Canvas**: used for everything. Daily announcements, links to lectures, assignments, discussions
