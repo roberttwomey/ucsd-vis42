@@ -15,7 +15,7 @@ This course provides students with a foundation in programming and computational
 
 - Instructor: Dr. Robert Twomey
 - Class: Tu/Th 9:30-10:50 AM
-- Location: TBD
+- Location: York 2622 (map)()
 - Office Hours:
    - in person: TBD (Envision)
    - online: TBD (zoom)
@@ -107,9 +107,9 @@ Every* week you will have the following assignments:
 - 20% Labs (10 weekly labs, graded on completion 5/5pts)
 - 60% Projects (10 weekly homeworks, graded on concept, execution, experimentation 10/10pts)
   - two larger projects may take the place of homework.
-- 12% Reflections (10 weekly reflections, 1 per homework)
+- 10% Reflections (10 weekly reflections, 1 per homework)
   - 2/2pts graded on completion, following SOAR format
-- 8% Participation (Peer Reviews, attendance)
+- 10% Participation (Peer Reviews, attendance)
   - graded on completion
 
 # Policies
