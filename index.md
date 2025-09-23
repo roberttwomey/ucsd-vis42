@@ -11,7 +11,7 @@ layout: home
        style="width: 100%; height: 100%; object-fit: cover; position: absolute;">
 </div>
 
-_detail of CSRSNT-CAAI-038-of-128.png, [csrsnt](https://www.instagram.com/csrsnt/) (Casey Reas), 20 April 2021_
+<small>_detail of CSRSNT-CAAI-038-of-128.png, [csrsnt](https://www.instagram.com/csrsnt/) (Casey Reas), 20 April 2021_</small>
 
 ## Description
 
