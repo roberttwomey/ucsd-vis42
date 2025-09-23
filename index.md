@@ -6,6 +6,12 @@ layout: home
 # VIS 42 - Intro to Creative Code - Fall 2025
 [Schedule](#topics-and-schedule) | [Description](#description) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
+<div style="width: 100%; height: 200px; overflow: hidden; position: relative;">
+  <img src="assets/csrsnt-cover.jpg" 
+       style="width: 100%; height: 100%; object-fit: cover; position: absolute;">
+</div>
+
+_detail of CSRSNT-CAAI-038-of-128.png, [csrsnt](https://www.instagram.com/csrsnt/) (Casey Reas), 20 April 2021_
 
 ## Description
 
@@ -13,12 +19,14 @@ This course provides students with a foundation in programming and computational
 
 ### Description
 
-- Instructor: Dr. Robert Twomey
-- Class: Tu/Th 9:30-10:50 AM
-- Location: York 2622 (map)()
-- Office Hours:
-   - in person: TBD (Envision)
-   - online: TBD (zoom)
+- **Instructor**: Dr. Robert Twomey
+- **Class**: Tu/Th 9:30-10:50 AM
+- **Location**: York 2622 ([map](https://map.concept3d.com/?id=1005#!m/237193?share))
+- **Office Hours**: TBD likely Monday/Wednesday
+
+#### Teaching Team
+- **Graduate TA**: Sarah Bricke
+- **Graduate TA**: Mavyn Vu
 
 **Prerequisites**: None
 
@@ -28,10 +36,12 @@ This course provides students with a foundation in programming and computational
 We will use the open source creative coding language [p5.js](https://p5js.org/) within a jupyterlite environment. Try it out [here](https://p5nb.vercel.app/tree/index.html)!
 
 ## Resources
-- **Canvas**: used for everything. Daily announcements, links to lectures, assignments, discussions
-- **Zoom**: used for office hours, individual meetings
-- **Google Drive**: used for lectures, surveys, etc. See Canvas for link
-- **Discord**: informal discussion, questions, peer support. See Canvas for link
+- **Canvas**: [https://canvas.ucsd.edu/courses/69603/](https://canvas.ucsd.edu/courses/69603/) 
+(_used for everything: daily announcements, links to lectures, assignments, discussions_)
+- **Notebooks**: [link TK] (_lectures and other resources are shared here as jupyter notebooks_)
+- **Discord**: See Canvas for link (_informal discussion, questions, peer support_)
+- **Zoom**: See Canvas for link (_used individual meetings, any remote instruction_)
+
 
 ## Required Materials
 You will need access to a laptop or other computer. I recommend a notebook specifically for taking notes, drawing ideas, “writing” code, etc.
@@ -45,8 +55,9 @@ You will need access to a laptop or other computer. I recommend a notebook speci
    - Labs are due before Thursday’s class.
    - Projects are due Monday night at midnight.
    - Peer reviews are due before Thursday’s class (you have from Tuesday morning - Thursday before class)
-- Late work will be penalized. See Late Work policy below.
-- The emphasis of this class is on regular, weekly coding practice, self-expression, reflection, and peer community/support.
+- Late work will be penalized. **See [Late Work](#late-work) policy below.**
+
+The emphasis of this class is on regular, weekly coding practice, self-expression, reflection, and peer community/support.
 
 ## Educational Objectives
 At the end of the course, students will be able to:
@@ -65,8 +76,8 @@ At the end of the course, students will be able to:
 
 | Week | Day | Topics |
 | --- | --- | --- |
-| Week 0 | Sept 25 | What is Computing and the Arts?; What is creative code?; Why p5? <br> Web editor overview // jupyter lite; submitting notebooks; 2D coordinate plane, functions (using p5 functions; shapes) |
-| Week 1 | Sept 30 | Functions; arcs(); custom shapes; Variables; operators; |
+| Week 0 | Sept 25 | What is creative code?; Why p5? <br> Web editer overview // upyter lite; 2D coordinate plane; using p5 functions; shapes; colors; submitting homework |
+| Week 1 | Sept 30 | More Functions; arcs(); custom shapes; Variables; operators; |
 | | Oct 2 | conditional statements (if); |
 | Week 2 | Oct 7 | if else; if/else if; interactivity functions (mouseX, mouseY, mouseIsPressed); visual plotting |
 | | Oct 9 | map(); counters and conditions; images; mousePressed(); |
@@ -89,7 +100,7 @@ At the end of the course, students will be able to:
 | Finals Week | Dec 12 | All work and documentation due |
 
 ## Assignments
-Every* week you will have the following assignments: 
+Every week* you will have the following assignments: 
 - 1 Lab
   - Assigned after Tuesday class
   - ~1-2 hour
@@ -98,8 +109,8 @@ Every* week you will have the following assignments:
   - Assigned after Thursday class 
   - ~ 3-5 hours
   - Due Monday at Midnight
-- 1 SOAR Reflection (Due with Project submission) ~ 15 minutes
-- 2 Peer reviews (of Projects) ~ 15 minutes
+- 1 SOAR Reflection (Due with Project submission) ~ 15-30 minutes
+- 2 Peer reviews (of Projects) ~ 15-30 minutes
 
 *Towards the end of the semester, we’ll have one or two longer projects.
 
