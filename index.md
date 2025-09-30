@@ -77,8 +77,8 @@ At the end of the course, students will be able to:
 | Week | Day | Topics |
 | --- | --- | --- |
 | Week 0 | Sept 25 | What is creative code?; Why p5? <br> Web editor overview // jupyter lite;  submitting homework |
-| Week 1 | Sept 30 | 2D coordinate plane; using p5 drawing functions; shapes; colors |
-| | Oct 2 | More Functions; arcs(); custom shapes; Variables; operators; |
+| Week 1 | Sept 30 | 2D coordinate plane; using p5 drawing functions; shapes; colors; custom shapes; |
+| | Oct 2 | creating functions; arcs(); Variables; operators; |
 | Week 2 | Oct 7 | conditional statements (if); if else; if/else if; visual plotting |
 | | Oct 9 | interactivity functions (mouseX, mouseY, mouseIsPressed); map(); counters and conditions; images; mousePressed(); |
 | Week 3 | Oct 14 | random() values; images; tint; |
