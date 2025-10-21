@@ -82,9 +82,9 @@ At the end of the course, students will be able to:
 | Week 2 | Oct 7 | Variables; operators; conditional statements (if); arcs(); |
 | | Oct 9 | if else; if/else if; visual plotting; interactivity functions (mouseX, mouseY, mouseIsPressed); map(); counters and conditions;|
 | Week 3 | Oct 14 | more map(); complex conditionals; basic images; |
-| | Oct 16 | GIFs, tint(); mousePressed(); random() values; | 
-| Week 4 | Oct 21 | simple Array, random() selection; array of pictures; |
-| | Oct 23 | for loops; index over an Array; nested loops | 
+| | Oct 16 | GIFs and tint(); random(); mousePressed(); | 
+| Week 4 | Oct 21 | for loops |
+| | Oct 23 | simple Array, random() selection; array of pictures; index over an Array; nested loops | 
 | Week 5 | Oct 28 | Transformations: translate, rotate, scale; 3D: primitive shapes, coordinate plane |
 | | Oct 30 | 3D: advanced (lights, materials, loading models) | 
 | Week 6 | Nov 4 | P5 sound library - Music Player, if statement, map(), mouse interaction. |
