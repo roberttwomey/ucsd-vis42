@@ -84,11 +84,11 @@ At the end of the course, students will be able to:
 | Week 3 | Oct 14 | more map(); complex conditionals; basic images; |
 | | Oct 16 | GIFs and tint(); random(); mousePressed(); | 
 | Week 4 | Oct 21 | for loops |
-| | Oct 23 | simple Array, random() selection; array of pictures; index over an Array; nested loops | 
-| Week 5 | Oct 28 | Transformations: translate, rotate, scale; 3D: primitive shapes, coordinate plane |
-| | Oct 30 | 3D: advanced (lights, materials, loading models) | 
-| Week 6 | Nov 4 | P5 sound library - Music Player, if statement, map(), mouse interaction. |
-| | Nov 6 | P5 sound library - Create a Music Video - amplitude() |
+| | Oct 23 | nested loops; visual patterning nested; | 
+| Week 5 | Oct 28 | Array, iterating; random() selection; pixels as Array; Array of pictures; |
+| | Oct 30 | Transformations: translate, rotate, scale; 3D: primitive shapes, coordinate plane | 
+| Week 6 | Nov 4 |3D: advanced (lights, materials, loading models) |
+| | Nov 6 |  P5 sound library - Music Player; create a Music Video - amplitude() |
 | Week 7 | Nov 11 | NO CLASS - VETERANS DAY |
 | | Nov 13 | Video (finding, adding, and using video methods) <br>Critique and Review | 
 | Week 8 | Nov 18 | Video II | 
@@ -137,7 +137,6 @@ In the text box below, write a reflection (4 sentences minimum):
 - `Objective` - describe your process. How did you go about completing the project?
 - `Actions` - What did you learn from today's experience that you can take moving forward?
 - `Reflection` - any overall reflection - how are things progressing, generally? how does this work fit into your broader creative vision?
-
 
 ## Peer Review
 Answer at least two of the Peer Review questions below, in response to your peer’s project. Take care to not just Evaluate. (4 sentences)
