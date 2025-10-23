@@ -127,7 +127,24 @@ Every week* you will have the following assignments:
 
 Course-specific policies and rules.
 
-| [ICAM Policies](#icam-policies) | [Attendance](#attendance) | [Late Work](#late-work) | [Academic Integrity](#academic-integrity) | [Other People's Code](#other-peoples-code) | [UCSD Course Policies](#ucsd-course-policies) |
+| [ICAM Policies](#icam-policies) | [Reflection](#reflection) | [Peer Review](#peer-review) | [Attendance](#attendance) | [Late Work](#late-work) | [Academic Integrity](#academic-integrity) | [Other People's Code](#other-peoples-code) | [UCSD Course Policies](#ucsd-course-policies) |
+
+## Reflection
+
+In the text box below, write a reflection (4 sentences minimum):
+
+- `Subjective` - How did today (coding this project) feel? Did you accomplish your creative goals
+- `Objective` - describe your process. How did you go about completing the project?
+- `Actions` - What did you learn from today's experience that you can take moving forward?
+- `Reflection` - any overall reflection - how are things progressing, generally? how does this work fit into your broader creative vision?
+
+
+## Peer Review
+Answer at least two of the Peer Review questions below, in response to your peer’s project. Take care to not just Evaluate. (4 sentences)
+- `Describe` - What do you see?
+- `Analyze` - How is it made? How does it make you feel or think about?
+- `Interpret` - What is it about? What’s the main idea being explored?
+- `Evaluate` - Is it successful? Does it explore the prompt in a compelling, interesting, or unique way?
 
 ## ICAM Policies
 File naming conventions and submissions. More [TK].
