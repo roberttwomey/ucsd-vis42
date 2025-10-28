@@ -85,13 +85,13 @@ At the end of the course, students will be able to:
 | | Oct 16 | GIFs and tint(); random(); mousePressed(); | 
 | Week 4 | Oct 21 | for loops |
 | | Oct 23 | nested loops; visual patterning nested; | 
-| Week 5 | Oct 28 | Array, iterating; random() selection; pixels as Array; Array of pictures; |
-| | Oct 30 | Transformations: translate, rotate, scale; 3D: primitive shapes, coordinate plane | 
-| Week 6 | Nov 4 |3D: advanced (lights, materials, loading models) |
-| | Nov 6 |  P5 sound library - Music Player; create a Music Video - amplitude() |
+| Week 5 | Oct 28 | Array, iterating; random() selection; |
+| | Oct 30 | pixels as Array; Array of pictures; | 
+| Week 6 | Nov 4 | Transformations: translate, rotate, scale; 3D: primitive shapes, coordinate plane|
+| | Nov 6 |  3D: advanced (lights, materials, loading models) |
 | Week 7 | Nov 11 | NO CLASS - VETERANS DAY |
-| | Nov 13 | Video (finding, adding, and using video methods) <br>Critique and Review | 
-| Week 8 | Nov 18 | Video II | 
+| | Nov 13 | P5 sound library - Music Player; create a Music Video - amplitude() | 
+| Week 8 | Nov 18 | Video (finding, adding, and using video methods) <br>Critique and Review | 
 | | Nov 20 | OOP or other advanced topics | 
 | Week 9 | Nov 25 | DOM and html5. p5-notebook (jupyterlite) to html and web IDE; Presenting work through web. |
 | | Nov 27 | NO CLASS - THANKSGIVING | 
