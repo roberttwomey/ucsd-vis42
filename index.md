@@ -133,19 +133,19 @@ F = below 70%<br>
 
 ## Project Grading Details
 
-Work will be evaluated on the **quality of concept**, the **degree of experimentation** (aesthetic and technical), and the **final realization** (again, aesthetic and technical).
+Work will be evaluated on the _quality of concept_, the _degree of experimentation_ (aesthetic and technical), and the _final realization_ (again, aesthetic and technical).
 
 **A – Excellent**
-Excellent projects present **clear, original, and compelling** concepts. They demonstrate **strong experimentation**—pushing both aesthetic and technical boundaries—and result in a **highly resolved, polished final work**. The project reflects a deep engagement with the assignment prompt and an ambitious creative vision. You’ve thoughtfully integrated feedback and shown critical awareness of your process and outcome.
+Excellent projects present _clear, original, and compelling_ concepts. They demonstrate _strong experimentation_—pushing both aesthetic and technical boundaries—and result in a _highly resolved, polished final work_. The project reflects a deep engagement with the assignment prompt and an ambitious creative vision. You’ve thoughtfully integrated feedback and shown critical awareness of your process and outcome.
 
 **B – Good**
-Good projects present **well-developed** and **thoughtful concepts**. They show **solid experimentation** with some risks taken, and result in a **well-executed and coherent final work**. The project meets all requirements and demonstrates care and understanding in both craft and presentation. Feedback has been applied effectively, though not always extensively.
+Good projects present _well-developed_ and _thoughtful concepts_. They show _solid experimentation_ with some risks taken, and result in a _well-executed and coherent final work_. The project meets all requirements and demonstrates care and understanding in both craft and presentation. Feedback has been applied effectively, though not always extensively.
 
 **C – Satisfactory**
-Satisfactory projects present **clear but limited concepts**. Experimentation is present but **conventional or uneven**, and the final realization may feel **incomplete or underdeveloped**. The work meets basic requirements but lacks depth, polish, or full engagement with the creative potential of the assignment. Feedback may not have been fully addressed.
+Satisfactory projects present _clear but limited concepts_. Experimentation is present but _conventional or uneven_, and the final realization may feel _incomplete or underdeveloped_. The work meets basic requirements but lacks depth, polish, or full engagement with the creative potential of the assignment. Feedback may not have been fully addressed.
 
 **F – Failing**
-Failing projects show **minimal concept development**, **little to no experimentation**, and **poor or incomplete realization**. The work may not meet assignment requirements, demonstrate technical competence, or communicate a clear idea. It reflects a lack of engagement with the project’s creative and developmental process.
+Failing projects show _minimal concept development_, _little to no experimentation_, and _poor or incomplete realization_. The work may not meet assignment requirements, demonstrate technical competence, or communicate a clear idea. It reflects a lack of engagement with the project’s creative and developmental process.
 
 # Policies
 
