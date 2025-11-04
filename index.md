@@ -13,40 +13,37 @@ layout: home
 
 <small>_detail of CSRSNT-CAAI-038-of-128.png, [csrsnt](https://www.instagram.com/csrsnt/) (Casey Reas), 20 April 2021_</small>
 
-## Description
+# Description
 
 This course provides students with a foundation in programming and computational thinking, and their application in creative projects. Topics covered may include generative graphics and sound, interactive media, and others. Students will gain practical skills through hands-on experience and experimentation, learning to integrate computing into artistic practices. No prior programming experience is required.
 
-### Description
+## Details
 
 - **Instructor**: Dr. Robert Twomey
 - **Class**: Tu/Th 9:30-10:50 AM
 - **Location**: York 2622 ([map](https://map.concept3d.com/?id=1005#!m/237193?share))
 - **Office Hours**: TBD likely Monday/Wednesday
 
-#### Teaching Team
+## Teaching Team
 - **Graduate TA**: Sarah Bricke
 - **Graduate TA**: Mavyn Vu
 
 **Prerequisites**: None
 
-<!--**Restrictions** students who have received credit for any of CSE 8A, 8B, 11, 6R, COGS 18, BILD 62, DSC20 (or equivalents) may not enroll for credit in this course.-->
-
-## Tools
+# Tools
 We will use the open source creative coding language [p5.js](https://p5js.org/) within a jupyterlite environment. Try it out [here](https://p5nb.vercel.app/tree/index.html)!
 
-## Resources
+# Resources
 - **Canvas**: [https://canvas.ucsd.edu/courses/69603/](https://canvas.ucsd.edu/courses/69603/) 
 (_used for everything: daily announcements, links to lectures, assignments, discussions_)
 - **Notebooks**: [link TK] (_lectures and other resources are shared here as jupyter notebooks_)
 - **Discord**: See Canvas for link (_informal discussion, questions, peer support_)
 - **Zoom**: See Canvas for link (_used individual meetings, any remote instruction_)
 
-
 ## Required Materials
 You will need access to a laptop or other computer. I recommend a notebook specifically for taking notes, drawing ideas, “writing” code, etc.
 
-## Course Format
+# Format
 - Plan to spend ~9 hours outside of class on coursework each week. (4 credit course ~ 12 hours of work time)
    - Labs -  ~1-2 hour
    - Projects -  ~3-5 hours
@@ -59,7 +56,7 @@ You will need access to a laptop or other computer. I recommend a notebook speci
 
 The emphasis of this class is on regular, weekly coding practice, self-expression, reflection, and peer community/support.
 
-## Educational Objectives
+# Educational Objectives
 At the end of the course, students will be able to:
 - Read and write code with p5.js
   - Demonstrated through effective use of the p5.js language in exercises and assignments
@@ -72,7 +69,7 @@ At the end of the course, students will be able to:
   - Decomposition, pattern recognition, abstraction, algorithmic thinking, generalization, evaluation
 - Structure projects, name files, comment code, document outputs, and submit assignments according to professional and ICAM standards.
 
-## Topics and Schedule
+# Topics and Schedule
 
 | Week | Day | Topics |
 | --- | --- | --- |
@@ -86,35 +83,41 @@ At the end of the course, students will be able to:
 | Week 4 | Oct 21 | for loops |
 | | Oct 23 | nested loops; visual patterning nested; | 
 | Week 5 | Oct 28 | Array, iterating; random() selection; |
-| | Oct 30 | pixels as Array; Array of pictures; | 
-| Week 6 | Nov 4 | Transformations: translate, rotate, scale; 3D: primitive shapes, coordinate plane|
-| | Nov 6 |  3D: advanced (lights, materials, loading models) |
+| | Oct 30 | pixels as Array; Array of pictures | 
+| Week 6 | Nov 4 | Transformations: translate, rotate, scale |
+| | Nov 6 |  NO CLASS - WORK TIME |
 | Week 7 | Nov 11 | NO CLASS - VETERANS DAY |
-| | Nov 13 | P5 sound library - Music Player; create a Music Video - amplitude() | 
-| Week 8 | Nov 18 | Video (finding, adding, and using video methods) <br>Critique and Review | 
-| | Nov 20 | OOP or other advanced topics | 
-| Week 9 | Nov 25 | DOM and html5. p5-notebook (jupyterlite) to html and web IDE; Presenting work through web. |
+| | Nov 13 | 3D: primitive shapes, coordinate plane | 
+| Week 8 | Nov 18 | 3D: advanced (lights, materials, loading models) | 
+| | Nov 20 | P5 sound library - Music Player; create a Music Video - amplitude() | 
+| Week 9 | Nov 25 |  Video (finding, adding, and using video methods) |
 | | Nov 27 | NO CLASS - THANKSGIVING | 
-| Week 10 | Dec 2 | Project work time. Choose a project to post to class website vis42.org |
-| | Dec 4 | Final Showcase | 
+| Week 10 | Dec 2 | DOM and html5. |
+Project work time. Choose a project to post to class website vis42.org |
+| | Dec 4 | p5-notebook (jupyterlite) to html and web IDE; Presenting work through web | 
+| Finals Week | Dec 9 | Final Showcase |
 | Finals Week | Dec 12 | All work and documentation due |
+
+<!-- outtakes
+OOP or other advanced topics 
+-->
 
 ## Assignments
 Every week* you will have the following assignments: 
 - 1 Lab
-  - Assigned after Tuesday class
+  - Assigned during Tuesday class
   - ~1-2 hour
   - Due before Thursday Class
 - 1 Project 
-  - Assigned after Thursday class 
+  - Assigned during Thursday class 
   - ~ 3-5 hours
-  - Due Monday at Midnight
+  - Due Tuesday before class
 - 1 SOAR Reflection (Due with Project submission) ~ 15-30 minutes
 - 2 Peer reviews (of Projects) ~ 15-30 minutes
 
 *Towards the end of the semester, we’ll have one or two longer projects.
 
-## Grading
+# Grading
 - 20% Labs (10 weekly labs, graded on completion 5/5pts)
 - 60% Projects (10 weekly homeworks, graded on concept, execution, experimentation 10/10pts)
   - two larger projects may take the place of homework.
@@ -122,6 +125,28 @@ Every week* you will have the following assignments:
   - 2/2pts graded on completion, following SOAR format
 - 10% Participation (Peer Reviews, attendance)
   - graded on completion
+
+## Grading Scale
+A+ = 97-100 | A = 94-97 | A- = 90-94 <br>
+B+ = 87-90 | B = 84-87 | B- = 80-84 <br>
+C+ = 77-80 | C = 74-77 | C- = 70-74 <br>
+F = below 70%<br>
+
+## Project Grading Details
+
+Work will be evaluated on the **quality of concept**, the **degree of experimentation** (aesthetic and technical), and the **final realization** (again, aesthetic and technical).
+
+**A – Excellent**
+Excellent projects present **clear, original, and compelling** concepts. They demonstrate **strong experimentation**—pushing both aesthetic and technical boundaries—and result in a **highly resolved, polished final work**. The project reflects a deep engagement with the assignment prompt and an ambitious creative vision. You’ve thoughtfully integrated feedback and shown critical awareness of your process and outcome.
+
+**B – Good**
+Good projects present **well-developed** and **thoughtful concepts**. They show **solid experimentation** with some risks taken, and result in a **well-executed and coherent final work**. The project meets all requirements and demonstrates care and understanding in both craft and presentation. Feedback has been applied effectively, though not always extensively.
+
+**C – Satisfactory**
+Satisfactory projects present **clear but limited concepts**. Experimentation is present but **conventional or uneven**, and the final realization may feel **incomplete or underdeveloped**. The work meets basic requirements but lacks depth, polish, or full engagement with the creative potential of the assignment. Feedback may not have been fully addressed.
+
+**F – Failing**
+Failing projects show **minimal concept development**, **little to no experimentation**, and **poor or incomplete realization**. The work may not meet assignment requirements, demonstrate technical competence, or communicate a clear idea. It reflects a lack of engagement with the project’s creative and developmental process.
 
 # Policies
 
@@ -165,6 +190,8 @@ Integrity of scholarship is essential for an academic community. The University 
 
 ## Other People’s Code
 **If you use a piece of code from the p5 reference or another piece of publicly available code, you must cite your use of it at the top of your code file as a comment**. Include a link to the original code file, the author, and the date. 
+
+**This includes generated code**. You are allowed to use LLMs, [TritonGPT](https://blink.ucsd.edu/technology/ai/tritongpt/index.html), other Generative AI tools as part of your coding process, however **you must disclose this usage**. Add comments in your code indicating which parts were generated, and how you asked the system to help.
 
 ## UCSD Course Policies
 Students are responsible for knowing the university academic policies and resources found on [this page](https://catalog.ucsd.edu/academic-regulations.html):
