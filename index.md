@@ -93,8 +93,7 @@ At the end of the course, students will be able to:
 | Week 9 | Nov 25 |  Video (finding, adding, and using video methods) |
 | | Nov 27 | NO CLASS - THANKSGIVING | 
 | Week 10 | Dec 2 | DOM and html5. |
-Project work time. Choose a project to post to class website vis42.org |
-| | Dec 4 | p5-notebook (jupyterlite) to html and web IDE; Presenting work through web | 
+| | Dec 4 | p5-notebook (jupyterlite) to html and web IDE; Presenting work through web; Choose a project to post to class website vis42.org | 
 | Finals Week | Dec 9 | Final Showcase |
 | Finals Week | Dec 12 | All work and documentation due |
 
