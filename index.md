@@ -89,12 +89,12 @@ At the end of the course, students will be able to:
 | Week 7 | Nov 11 | NO CLASS - VETERANS DAY |
 | | Nov 13 | 3D: primitive shapes, coordinate plane | 
 | Week 8 | Nov 18 | 3D: advanced (lights, materials, loading models) | 
-| | Nov 20 | P5 sound library - Music Player; create a Music Video - amplitude() | 
-| Week 9 | Nov 25 |  Video (finding, adding, and using video methods) |
+| | Nov 20 | Video (finding, adding, and using video methods) | 
+| Week 9 | Nov 25 | P5 sound library - Music Player; create a Music Video - amplitude() |
 | | Nov 27 | NO CLASS - THANKSGIVING | 
-| Week 10 | Dec 2 | DOM and html5. |
+| Week 10 | Dec 2 | DOM and html5 |
 | | Dec 4 | p5-notebook (jupyterlite) to html and web IDE; Presenting work through web; Choose a project to post to class website vis42.org | 
-| Finals Week | Dec 9 | Final Showcase |
+| Finals Week | Dec 11 | Final Showcase 9-11am |
 | Finals Week | Dec 12 | All work and documentation due |
 
 <!-- outtakes
