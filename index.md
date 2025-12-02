@@ -94,8 +94,8 @@ At the end of the course, students will be able to:
 | | Nov 27 | NO CLASS - THANKSGIVING | 
 | Week 10 | Dec 2 | DOM and html5 |
 | | Dec 4 | p5-notebook (jupyterlite) to html and web IDE; Presenting work through web; Choose a project to post to class website vis42.org | 
-| Finals Week | Dec 7 | All late work due end of day (11:59pm) for partial credit. EMAIL TA to request regrades. |
-| Finals Week | Dec 9 | Project 10 due end of day (11:59pm). No class meeting |
+| Finals Week | Dec 7 | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
+| | Dec 9 | Project 10 due end of day (11:59pm) Tuesday. No class meeting |
 
 <!-- outtakes
 OOP or other advanced topics 
