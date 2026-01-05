@@ -3,8 +3,10 @@ title: Home
 layout: home
 ---
 
-# VIS 42 - Intro to Creative Code - Fall 2025
+# VIS 42 - Intro to Creative Code - Winter 2026
 [Schedule](#topics-and-schedule) | [Description](#description) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references)
+
+# ⚡️ ⚡️  updates in progress - see you on tuesday ⚡️ ⚡️ 
 
 <div style="width: 100%; height: 200px; overflow: hidden; position: relative;">
   <img src="assets/csrsnt-cover.jpg" 
