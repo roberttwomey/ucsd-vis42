@@ -6,8 +6,6 @@ layout: default
 # VIS 42 - Intro to Creative Code - Winter 2026
 [Schedule](#topics-and-schedule) | [Description](#description) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
-# ⚡️ ⚡️  updates in progress - see you on tuesday ⚡️ ⚡️ 
-
 <div style="width: 100%; height: 200px; overflow: hidden; position: relative;">
   <img src="assets/csrsnt-cover.jpg" 
        style="width: 100%; height: 100%; object-fit: cover; position: absolute;">
@@ -24,7 +22,7 @@ This course provides students with a foundation in programming and computational
 - **Instructor**: Dr. Robert Twomey
 - **Class**: Tu/Th 9:30-10:50 AM
 - **Location**: Pepper Canyon Hall 122 ([map](https://map.concept3d.com/?id=1005#!m/553563?share))
-- **Office Hours**: TBD likely Monday/Wednesday
+- **Office Hours**: TBD likely Wednesday 1-2pm on zoom/discord
 
 ## Teaching Team
 - **Graduate TA**: Mavyn Vu
@@ -35,14 +33,14 @@ This course provides students with a foundation in programming and computational
 We will use the open source creative coding language [p5.js](https://p5js.org/) within a jupyterlite environment. Try it out [here](https://p5nb.vercel.app/tree/index.html)!
 
 # Resources
-- **Canvas**: [https://canvas.ucsd.edu/courses/69603/](https://canvas.ucsd.edu/courses/69603/) 
+- **Canvas**: [https://canvas.ucsd.edu/courses/69603/](https://canvas.ucsd.edu/courses/73114) 
 (_used for everything: daily announcements, links to lectures, assignments, discussions_)
-- **Notebooks**: [link TK] (_lectures and other resources are shared here as jupyter notebooks_)
+- **Notebooks**: See Canvas for link (_lectures and other resources are shared here as jupyter notebooks_)
 - **Discord**: See Canvas for link (_informal discussion, questions, peer support_)
-- **Zoom**: See Canvas for link (_used individual meetings, any remote instruction_)
+- **Zoom**: See Canvas for link (_for individual meetings with me, any remote instruction_)
 
 ## Required Materials
-You will need access to a laptop or other computer. I recommend a notebook specifically for taking notes, drawing ideas, “writing” code, etc.
+You will need to bring a laptop or other computer. I recommend a notebook specifically for taking notes, drawing ideas, “writing” code, etc.
 
 # Format
 - Plan to spend ~9 hours outside of class on coursework each week. (4 credit course ~ 12 hours of work time)
@@ -193,7 +191,7 @@ Integrity of scholarship is essential for an academic community. The University 
 ### Generative AI
 **This includes generated code**. 
 
-You are allowed to use LLMs, [TritonGPT](https://blink.ucsd.edu/technology/ai/tritongpt/index.html), ChatGPT, Claude, Cursor, Antigravity, or other Generative AI tools as part of your coding process for this course, however **you must disclose this usage**. My goal is for you to learn to read, write, and understand code for creative work. To help us assess your understanding, and what you are producing, you must add comments in your code indicating which parts were generated, how you asked the system to help, and why.
+You are allowed to use LLMs, [TritonGPT](https://blink.ucsd.edu/technology/ai/tritongpt/index.html), ChatGPT, Claude, Cursor, Antigravity, or other Generative AI tools as part of your coding process for this course, however **you must disclose this usage**. My goal is for you to learn to read, write, and understand code for creative work. To help us assess your understanding, interpret what you are producing, and help you develop, you must add comments in your code indicating which parts were generated, how you asked the system to help, and why.
 
 Guidelines for using generative AI in this course: 
 - You must cite your use of generative AI. This means using comments in your code to indicate (a) which parts were generated, (b) how you asked the system to help, and (c) why.
