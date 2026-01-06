@@ -70,9 +70,11 @@ At the end of the course, students will be able to:
 
 # Topics and Schedule
 
+(this schedule will be refined as we go)
+
 | Week | Day | Topics |
 | --- | --- | --- |
-| Week 1 | Jan 6 | What is creative code?; Why p5? <br> Web editor overview // jupyter lite;  submitting homework |
+| Week 1 | Jan 6 | What is creative code?; Why p5? <br> jupyter lite // p5 web editor; submitting homework |
 | | Jan 8 | 2D coordinate plane; using p5 drawing functions; shapes; colors; custom shapes; |
 | Week 2| Jan 13 | creating functions; curves(); |
 | | Jan 15 | Variables; operators; conditional statements (if); arcs(); |
@@ -176,7 +178,11 @@ On-time attendance is required as well as work inside and outside of section. Pl
 On-time attendance is required. Lateness or leaving early, when not cleared with the instructor, will also impact your participation grade. Lateness will be counted as 80% for your participation grade for the day.
 
 ## Late Work 
-**Late Work Grading Policy**. Late work will be docked 5% for each day they are late (if an assignment is two days late, the grade will be docked 10%). An assignment submitted after the due date time on the due date will still be docked 5%. The lowest possible grade for late work is 70%, which means that for an assignment submitted more than 6 days late, no more than 30% will be docked, but the maximum grade you will receive is 70%. There is a limit, however: **Work submitted more than 3 weeks late will count for 0%.** Details about submission format and due date are given in Canvas. 
+**Late Work Grading Policy**. Late work submissions will be docked 5% for each day they are late (if an assignment is two days late, the grade will be docked 10%). An assignment submitted after the due date time on the due date will still be docked 5%. 
+
+Details about submission format and due dates are given in our Canvas assignments. 
+
+You will need to come to office hours with your TA to request a regrade of any late work submitted after the original deadline.
 
 **Excused Late Work**. Requests to submit late work for special circumstances must be approved by your instructor at least 24 hours before the due date and time. Any late requests made less than 24 hours before the assignment is due may still be subject to a lateness penalty. We do not distinguish between mental and physical health. **Email your instructor, 24 hours in advance, explaining generally the reason you are missing class and your plans for making up any missed lecture, activity, and assignment**. 
 
@@ -191,17 +197,18 @@ Integrity of scholarship is essential for an academic community. The University 
 ### Generative AI
 **This includes generated code**. 
 
-You are allowed to use LLMs, [TritonGPT](https://blink.ucsd.edu/technology/ai/tritongpt/index.html), ChatGPT, Claude, Cursor, Antigravity, or other Generative AI tools as part of your coding process for this course, however **you must disclose this usage**. My goal is for you to learn to read, write, and understand code for creative work. To help us assess your understanding, interpret what you are producing, and help you develop, you must add comments in your code indicating which parts were generated, how you asked the system to help, and why.
+You are allowed to use LLMs, [TritonGPT](https://blink.ucsd.edu/technology/ai/tritongpt/index.html), ChatGPT, Claude, Cursor, Antigravity, or other Generative AI tools as part of your coding process for this course, however **you must disclose this usage**. My goal is for you to learn to read, write, and understand code for creative work. To give us insight into your learning, understanding, and creative strategy, you must add comments in your code indicating your use of generative AI:
 
-Guidelines for using generative AI in this course: 
-- You must cite your use of generative AI. This means using comments in your code to indicate (a) which parts were generated, (b) how you asked the system to help, and (c) why.
+Guidlines for use of Generative AI
+1. You must cite your use of generative AI. This means using comments in your code to indicate (a) which parts were generated, (b) how you asked the system to help, and (c) why.
 - Citing code involves adding descriptive comments just before the code: 
   - ```// the following code was generated with ChatGPT```
   - ```// I asked GPT how to generate an animated flower that would open and close```
-- Keep your code within the scope of topics we have covered so far in class. (So for instance, we aren't expecting submissions using classes or OOP concepts in the early weeks of the quarter). If you are using advanced techniques you know from prior experience/other courses (non-GenAI), just add a simple explanation / acknowledgement of that fact. If an LLM comes up with code you don't understand: don't use it, come talk to us, or iterate until it sticks within the scope of topics covered.
-- You should be able to explain the code you are using. If it appears you have used generative AI without citing it, or copied code from elsewhere, we will ask you to walk us through the code you submitted in an individual meeting.
-
-If we determine you have used generative AI wihtout citing it, you will receive a 0 for the assignment.
+2. Keep your code within the scope of topics we have covered so far in class. (So for instance, we aren't expecting submissions using classes or OOP concepts in the early weeks of the quarter). 
+  - If you are using advanced techniques you know from prior experience/other courses (non-GenAI), just add a simple explanation / acknowledgement of that fact. 
+  - If an LLM comes up with code you don't understand: come talk to us, or iterate until it sticks within the scope of topics covered.
+3. You should be able to explain the code you are using. If it appears you have used generative AI without citing it, or copied code from elsewhere, we will ask you to walk us through the code you submitted in an individual meeting.
+  - If we determine you have used generative AI wihtout citing it, you will receive a 0 for the assignment.
 
 Again, there is no penalty for using generative AI, but we want you to disclose where (and how) you are using it.
 
