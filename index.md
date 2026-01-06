@@ -85,17 +85,17 @@ At the end of the course, students will be able to:
 | Week 5 | Feb 3 | nested loops; visual patterning nested; | 
 | | Feb 5 | Array, iterating; random() selection; |
 | Week 6 | Feb 10 | pixels as Array; Array of pictures | 
-| | Feb 12 | Transformations: translate, rotate, scale |
-| Week 7 | Feb 17 | 3D: primitive shapes, coordinate plane | 
-|  | Feb 19 | 3D: advanced (lights, materials, loading models) | 
-| Week 8 | Feb 24 | Video (finding, adding, and using video methods) | 
-| | Feb 26 | P5 sound library - Music Player; create a Music Video - amplitude() |
-| Week 9 | Mar 3 | NO CLASS - THANKSGIVING | 
+| | Feb 12 | Midterm critique/laptop presentations - location TBD|
+| Week 7 | Feb 17 | Transformations: translate, rotate, scale | 
+|  | Feb 19 | 3D: primitive shapes, coordinate plane | 
+| Week 8 | Feb 24 | 3D: advanced (lights, materials, loading models)  | 
+| | Feb 26 | Video (finding, adding, and using video methods) |
+| Week 9 | Mar 3 | P5 sound library - Music Player; create a Music Video - amplitude | 
 | | Mar 5 | DOM and html5 |
 | Week 10 | Mar 10 | p5-notebook (jupyterlite) to html and web IDE; Presenting work through web; Choose a project to post to class website vis42.org | 
 | | Mar 12 | What I didn't teach you.
 | Finals Week | Mar 15 | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
-| | Mar 19 | Project 10 due 9am Tuesday. In class critique/laptop show |
+| | Mar 19 | Project 10 due 9am Tuesday. In class critique/laptop show - location TBD likely FAH |
 
 <!-- outtakes
 OOP or other advanced topics 
@@ -178,7 +178,7 @@ On-time attendance is required as well as work inside and outside of section. Pl
 On-time attendance is required. Lateness or leaving early, when not cleared with the instructor, will also impact your participation grade. Lateness will be counted as 80% for your participation grade for the day.
 
 ## Late Work 
-**Late Work Grading Policy**. Late work will be docked 5% for each day they are late (if an assignment is two days late, the grade will be docked 10%). An assignment submitted after the due date time on the due date will still be docked 5%. The lowest possible grade for late work is 70%, which means that for an assignment submitted more than 6 days late, no more than 30% will be docked, but the maximum grade you will receive is 70%. **Work submitted more than 3 weeks late will count for 0%.** Details about submission format and due date are given in Canvas. 
+**Late Work Grading Policy**. Late work will be docked 5% for each day they are late (if an assignment is two days late, the grade will be docked 10%). An assignment submitted after the due date time on the due date will still be docked 5%. The lowest possible grade for late work is 70%, which means that for an assignment submitted more than 6 days late, no more than 30% will be docked, but the maximum grade you will receive is 70%. There is a limit, however: **Work submitted more than 3 weeks late will count for 0%.** Details about submission format and due date are given in Canvas. 
 
 **Excused Late Work**. Requests to submit late work for special circumstances must be approved by your instructor at least 24 hours before the due date and time. Any late requests made less than 24 hours before the assignment is due may still be subject to a lateness penalty. We do not distinguish between mental and physical health. **Email your instructor, 24 hours in advance, explaining generally the reason you are missing class and your plans for making up any missed lecture, activity, and assignment**. 
 
@@ -190,12 +190,22 @@ Integrity of scholarship is essential for an academic community. The University 
 ## Other People’s Code
 **If you use a piece of code from the p5 reference or another piece of publicly available code, you must cite your use of it at the top of your code file as a comment**. Include a link to the original code file, the author, and the date. 
 
-**This includes generated code**. You are allowed to use LLMs, [TritonGPT](https://blink.ucsd.edu/technology/ai/tritongpt/index.html), ChatGPT, Claude, Cursor, Antigravity, or other Generative AI tools as part of your coding process, however **you must disclose this usage**. Add comments in your code indicating which parts were generated, and how you asked the system to help.
+### Generative AI
+**This includes generated code**. 
 
-Guidelines: 
-- Code must stay within the scope of topics we have covered so far in class. (So for instance, we aren't expecting submissions using classes or OOP concepts in the early weeks of the quarter).
-- You should be able to explain the code you are using. If it appears you have used generative AI without citing it, we will ask you to walk us through the code you submitted.
-- Citing code involves adding comments to it: ```// this section below was found on openprocessing.org```, or ```// this was generated using ChatGPT```
+You are allowed to use LLMs, [TritonGPT](https://blink.ucsd.edu/technology/ai/tritongpt/index.html), ChatGPT, Claude, Cursor, Antigravity, or other Generative AI tools as part of your coding process for this course, however **you must disclose this usage**. My goal is for you to learn to read, write, and understand code for creative work. To help us assess your understanding, and what you are producing, you must add comments in your code indicating which parts were generated, how you asked the system to help, and why.
+
+Guidelines for using generative AI in this course: 
+- You must cite your use of generative AI. This means using comments in your code to indicate (a) which parts were generated, (b) how you asked the system to help, and (c) why.
+- Citing code involves adding descriptive comments just before the code: 
+  - ```// the following code was generated with ChatGPT```
+  - ```// I asked GPT how to generate an animated flower that would open and close```
+- Keep your code within the scope of topics we have covered so far in class. (So for instance, we aren't expecting submissions using classes or OOP concepts in the early weeks of the quarter). If you are using advanced techniques you know from prior experience/other courses (non-GenAI), just add a simple explanation / acknowledgement of that fact. If an LLM comes up with code you don't understand: don't use it, come talk to us, or iterate until it sticks within the scope of topics covered.
+- You should be able to explain the code you are using. If it appears you have used generative AI without citing it, or copied code from elsewhere, we will ask you to walk us through the code you submitted in an individual meeting.
+
+If we determine you have used generative AI wihtout citing it, you will receive a 0 for the assignment.
+
+Again, there is no penalty for using generative AI, but we want you to disclose where (and how) you are using it.
 
 ## UCSD Course Policies
 Students are responsible for knowing the university academic policies and resources found on [this page](https://catalog.ucsd.edu/academic-regulations.html):
