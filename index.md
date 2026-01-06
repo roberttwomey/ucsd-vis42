@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: default
 ---
 
 # VIS 42 - Intro to Creative Code - Winter 2026
@@ -23,11 +23,10 @@ This course provides students with a foundation in programming and computational
 
 - **Instructor**: Dr. Robert Twomey
 - **Class**: Tu/Th 9:30-10:50 AM
-- **Location**: York 2622 ([map](https://map.concept3d.com/?id=1005#!m/237193?share))
+- **Location**: Pepper Canyon Hall 122 ([map](https://map.concept3d.com/?id=1005#!m/553563?share))
 - **Office Hours**: TBD likely Monday/Wednesday
 
 ## Teaching Team
-- **Graduate TA**: Sarah Bricke
 - **Graduate TA**: Mavyn Vu
 
 **Prerequisites**: None
@@ -75,27 +74,25 @@ At the end of the course, students will be able to:
 
 | Week | Day | Topics |
 | --- | --- | --- |
-| Week 0 | Sept 25 | What is creative code?; Why p5? <br> Web editor overview // jupyter lite;  submitting homework |
-| Week 1 | Sept 30 | 2D coordinate plane; using p5 drawing functions; shapes; colors; custom shapes; |
-| | Oct 2 | creating functions; curves(); |
-| Week 2 | Oct 7 | Variables; operators; conditional statements (if); arcs(); |
-| | Oct 9 | if else; if/else if; visual plotting; interactivity functions (mouseX, mouseY, mouseIsPressed); map(); counters and conditions;|
-| Week 3 | Oct 14 | more map(); complex conditionals; basic images; |
-| | Oct 16 | GIFs and tint(); random(); mousePressed(); | 
-| Week 4 | Oct 21 | for loops |
-| | Oct 23 | nested loops; visual patterning nested; | 
-| Week 5 | Oct 28 | Array, iterating; random() selection; |
-| | Oct 30 | pixels as Array; Array of pictures | 
-| Week 6 | Nov 4 | Transformations: translate, rotate, scale |
-| | Nov 6 |  NO CLASS - WORK TIME |
-| Week 7 | Nov 11 | NO CLASS - VETERANS DAY |
-| | Nov 13 | 3D: primitive shapes, coordinate plane | 
-| Week 8 | Nov 18 | 3D: advanced (lights, materials, loading models) | 
-| | Nov 20 | Video (finding, adding, and using video methods) | 
-| Week 9 | Nov 25 | P5 sound library - Music Player; create a Music Video - amplitude() |
-| | Nov 27 | NO CLASS - THANKSGIVING | 
-| Week 10 | Dec 2 | DOM and html5 |
-| | Dec 4 | p5-notebook (jupyterlite) to html and web IDE; Presenting work through web; Choose a project to post to class website vis42.org | 
+| Week 1 | Jan 6 | What is creative code?; Why p5? <br> Web editor overview // jupyter lite;  submitting homework |
+| | Jan 8 | 2D coordinate plane; using p5 drawing functions; shapes; colors; custom shapes; |
+| Week 2| Jan 13 | creating functions; curves(); |
+| | Jan 15 | Variables; operators; conditional statements (if); arcs(); |
+| Week 3 | Jan 20| if else; if/else if; visual plotting; interactivity functions (mouseX, mouseY, mouseIsPressed); map(); counters and conditions;|
+| | Jan 22 | more map(); complex conditionals; basic images; |
+| Week 4| Jan 27 | GIFs and tint(); random(); mousePressed(); | 
+| | Jan 29 | for loops |
+| Week 5 | Feb 3 | nested loops; visual patterning nested; | 
+| | Feb 5 | Array, iterating; random() selection; |
+| Week 6 | Feb 5 | pixels as Array; Array of pictures | 
+| | Feb 12 | Transformations: translate, rotate, scale |
+| Week 7 | Feb 10 | 3D: primitive shapes, coordinate plane | 
+|  | Feb 12 | 3D: advanced (lights, materials, loading models) | 
+| Week 8 | Feb 17 | Video (finding, adding, and using video methods) | 
+| | Feb 19 | P5 sound library - Music Player; create a Music Video - amplitude() |
+| Week 9 | Feb 24 | NO CLASS - THANKSGIVING | 
+| | Feb 26| DOM and html5 |
+| Week 10 | March  | p5-notebook (jupyterlite) to html and web IDE; Presenting work through web; Choose a project to post to class website vis42.org | 
 | Finals Week | Dec 7 | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
 | | Dec 9 | Project 10 due end of day (11:59pm) Tuesday. No class meeting |
 
