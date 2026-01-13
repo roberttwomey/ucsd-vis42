@@ -76,21 +76,21 @@ At the end of the course, students will be able to:
 | --- | --- | --- |
 | Week 1 | Jan 6 | What is creative code?; Why p5? <br> jupyter lite // p5 web editor; submitting homework |
 | | Jan 8 | 2D coordinate plane; using p5 drawing functions; shapes; colors; custom shapes; |
-| Week 2| Jan 13 | creating functions; curves(); |
-| | Jan 15 | Variables; operators; conditional statements (if); arcs(); |
-| Week 3 | Jan 20| if else; if/else if; visual plotting; interactivity functions (mouseX, mouseY, mouseIsPressed); map(); counters and conditions;|
-| | Jan 22 | more map(); complex conditionals; basic images; |
-| Week 4| Jan 27 | GIFs and tint(); random(); mousePressed(); | 
-| | Jan 29 | for loops |
-| Week 5 | Feb 3 | nested loops; visual patterning nested; | 
-| | Feb 5 | Array, iterating; random() selection; |
-| Week 6 | Feb 10 | pixels as Array; Array of pictures | 
+| Week 2| Jan 13 | variables; operators; conditional statements (if); built-in variables |
+| | Jan 15 | if else; if/else if; visual plotting; basic interactivity (mouseX, mouseY, mouseIsPressed); map(); |
+| Week 3 | Jan 20| Basic images (loadImage, image()); complex conditionals; more map()|
+| | Jan 22 | GIFs and tint(); random(); mousePressed(); |
+| Week 4| Jan 27 | intro to loops; for loops; iteration| 
+| | Jan 29 | nested loops; complex visual patterning; |
+| Week 5 | Feb 3 |  Arrays; iterating over arrays; random() selection | 
+| | Feb 5 | Nested loops; visual patterning images; pixels as arrays|
+| Week 6 | Feb 10 | Transformations: translate, rotate, scale; push() and pop() | 
 | | Feb 12 | Midterm critique/laptop presentations - location TBD|
-| Week 7 | Feb 17 | Transformations: translate, rotate, scale | 
-|  | Feb 19 | 3D: primitive shapes, coordinate plane | 
-| Week 8 | Feb 24 | 3D: advanced (lights, materials, loading models)  | 
-| | Feb 26 | Video (finding, adding, and using video methods) |
-| Week 9 | Mar 3 | P5 sound library - Music Player; create a Music Video - amplitude | 
+| Week 7 | Feb 17 | Introduction to 3D; primitive shapes, coordinate plane | 
+|  | Feb 19 | 3D: advanced (lights, materials, loading models) | 
+| Week 8 | Feb 24 | Video (finding, adding, and using video methods) | 
+| | Feb 26 | 3D advanced and video |
+| Week 9 | Mar 3 | P5 sound library; amplitude; | 
 | | Mar 5 | DOM and html5 |
 | Week 10 | Mar 10 | p5-notebook (jupyterlite) to html and web IDE; Presenting work through web; Choose a project to post to class website vis42.org | 
 | | Mar 12 | What I didn't teach you.
@@ -98,6 +98,8 @@ At the end of the course, students will be able to:
 | | Mar 19 | Project 10 due 9am Tuesday. In class critique/laptop show - location TBD likely FAH |
 
 <!-- outtakes
+lecXX - creating functions; curves(); 
+
 OOP or other advanced topics 
 -->
 
