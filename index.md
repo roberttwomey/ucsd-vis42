@@ -76,9 +76,9 @@ At the end of the course, students will be able to:
 | --- | --- | --- |
 | Week 1 | Jan 6 | What is creative code?; Why p5? <br> jupyter lite // p5 web editor; submitting homework |
 | | Jan 8 | 2D coordinate plane; using p5 drawing functions; shapes; colors; custom shapes; |
-| Week 2| Jan 13 | variables; operators; conditional statements (if); built-in variables |
-| | Jan 15 | if else; if/else if; visual plotting; basic interactivity (mouseX, mouseY, mouseIsPressed); map(); |
-| Week 3 | Jan 20| Basic images (loadImage, image()); complex conditionals; more map()|
+| Week 2| Jan 13 | variables; operators; conditional statements (if); built-in variables ((mouseX, mouseY, width, height)|
+| | Jan 15 | arc() and map(); additional built-in variables (mouseIsPressed, keyIsPressed); if else; if/else if; |
+| Week 3 | Jan 20| Basic images (loadImage(), image()); complex conditionals (&&, ||, etc.); more map()|
 | | Jan 22 | GIFs and tint(); random(); mousePressed(); |
 | Week 4| Jan 27 | intro to loops; for loops; iteration| 
 | | Jan 29 | nested loops; complex visual patterning; |
