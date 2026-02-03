@@ -81,9 +81,9 @@ At the end of the course, students will be able to:
 | Week 3 | Jan 20| complex conditionals (&&, \|\|, etc.); more map(); basic images (loadImage(), image()); |
 | | Jan 22 | GIFs and tint(); random(); mousePressed(); |
 | Week 4| Jan 27 | intro to loops; for loops; iteration| 
-| | Jan 29 | nested loops; complex visual patterning; |
+| | Jan 29 | nested loops; complex visual patterning; patterning images; |
 | Week 5 | Feb 3 |  Arrays; iterating over arrays; random() selection | 
-| | Feb 5 | Nested loops; visual patterning images; pixels as arrays|
+| | Feb 5 | Images as arrays of pixels; Transforms; |
 | Week 6 | Feb 10 | Transformations: translate, rotate, scale; push() and pop() | 
 | | Feb 12 | Midterm critique/laptop presentations - location TBD|
 | Week 7 | Feb 17 | Introduction to 3D; primitive shapes, coordinate plane | 
