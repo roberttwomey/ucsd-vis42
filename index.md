@@ -85,17 +85,16 @@ At the end of the course, students will be able to:
 | Week 5 | Feb 3 |  Arrays; iterating over arrays; random() selection | 
 | | Feb 5 | Images as arrays of pixels; Transforms; |
 | Week 6 | Feb 10 | Transformations: translate, rotate, scale; push() and pop() | 
-| | Feb 12 | Midterm critique/laptop presentations - location TBD|
-| Week 7 | Feb 17 | Introduction to 3D; primitive shapes, coordinate plane | 
-|  | Feb 19 | 3D: advanced (lights, materials, loading models) | 
-| Week 8 | Feb 24 | Video (finding, adding, and using video methods) | 
-| | Feb 26 | 3D advanced and video |
-| Week 9 | Mar 3 | P5 sound library; amplitude; | 
-| | Mar 5 | DOM and html5 |
-| Week 10 | Mar 10 | p5-notebook (jupyterlite) to html and web IDE; Presenting work through web; Choose a project to post to class website vis42.org | 
-| | Mar 12 | What I didn't teach you.
+| | Feb 12 | Midterm critique/laptop presentations; Introduction to 3D; primitive shapes, coordinate plane|
+| Week 7 | Feb 17 | 3D: advanced (lights, materials, loading models) | 
+|  | Feb 19 |  Video (finding, adding, and using video methods); 3D advanced and video | 
+| Week 8 | Feb 24 | P5 sound library; amplitude; | 
+| | Feb 26 | DOM and html5 |
+| Week 9 | Mar 3 | Presenting work through web; What I didn't teach you. | 
+| | Mar 5 | p5-notebook (jupyterlite) to html and web IDE; |
+| Week 10 | Mar 10 | More libraries and advanced techniques | 
+| | Mar 12 | Final Projects - In Class Showing | 
 | Finals Week | Mar 15 | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
-| | Mar 19 | Project 10 due 9am Tuesday. In class critique/laptop show - location TBD likely FAH |
 
 <!-- outtakes
 lecXX - creating functions; curves(); 
