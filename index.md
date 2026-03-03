@@ -90,9 +90,9 @@ At the end of the course, students will be able to:
 |  | Feb 19 |  Video (finding, adding, and using video methods); 3D advanced and video | 
 | Week 8 | Feb 24 | P5 sound library; amplitude; | 
 | | Feb 26 | DOM and html5 |
-| Week 9 | Mar 3 | Presenting work through web; What I didn't teach you. | 
-| | Mar 5 | p5-notebook (jupyterlite) to html and web IDE; |
-| Week 10 | Mar 10 | More libraries and advanced techniques | 
+| Week 9 | Mar 3 | deep dive on ml5 | 
+| | Mar 5 | p5live and spatialp5 |
+| Week 10 | Mar 10 | Presenting work through web; p5-notebook (jupyterlite) to html and web IDE; | 
 | | Mar 12 | Final Projects - In Class Showing | 
 | Finals Week | Mar 15 | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
 
