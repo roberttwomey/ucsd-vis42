@@ -72,29 +72,27 @@ At the end of the course, students will be able to:
 
 (this schedule will be refined as we go)
 
-| Day | Session | Topics |
+| Week | Day | Topics |
 | --- | --- | --- |
-| Day 1 | Session 1 | What is creative code?; Why p5? <br> jupyter lite // p5 web editor; submitting homework |
-| | Session 2 | 2D coordinate plane; using p5 drawing functions; shapes; colors; custom shapes; |
-| Day 2 | Session 3 | variables; operators; conditional statements (if); built-in variables ((mouseX, mouseY, width, height) |
-| | Session 4 | arc() and map(); additional built-in variables (mouseIsPressed, keyIsPressed); if else; if/else if; |
-| Day 3 | Session 5 | complex conditionals (&&, \|\|, etc.); more map(); basic images (loadImage(), image()); |
-| | Session 6 | GIFs and tint(); random(); mousePressed(); |
-| Day 4 | Session 7 | intro to loops; for loops; iteration |
-| | Session 8 | nested loops; complex visual patterning; patterning images; |
-| Day 5 | Session 9 | Arrays; iterating over arrays; random() selection |
-| | Session 10 | Images as arrays of pixels; Transforms; |
-| Day 6 | Session 11 | Transformations: translate, rotate, scale; push() and pop() |
-| | Session 12 | Midterm critique/laptop presentations; Introduction to 3D; primitive shapes, coordinate plane |
-| Day 7 | Session 13 | 3D: advanced (lights, materials, loading models) |
-| | Session 14 | Video (finding, adding, and using video methods); 3D advanced and video |
-| Day 8 | Session 15 | P5 sound library; amplitude; |
-| | Session 16 | DOM and html5 |
-| Day 9 | Session 17 | deep dive on ml5 |
-| | Session 18 | p5live and spatialp5 |
-| Day 10 | Session 19 | Presenting work through web; p5-notebook (jupyterlite) to html and web IDE; |
-| | Session 20 | Final Projects - In Class Showing |
-| Finals / End of Term | | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
+| **Week 1** | 1a | What is creative code?; Why p5? <br> jupyter lite // p5 web editor; submitting homework |
+| | 1b | 2D coordinate plane; using p5 drawing functions; shapes; colors; custom shapes; |
+| | 2a | variables; operators; conditional statements (if); built-in variables ((mouseX, mouseY, width, height) |
+| | 2b | arc() and map(); additional built-in variables (mouseIsPressed, keyIsPressed); if else; if/else if; |
+| **Week 2** | 3a | complex conditionals (&&, \|\|, etc.); more map(); basic images (loadImage(), image()); |
+|  | 3b | GIFs and tint(); random(); mousePressed(); |
+|  | 4a | intro to loops; for loops; iteration |
+|  | 4b | nested loops; complex visual patterning; patterning images; |
+| **Week 3** | 5a | Arrays; iterating over arrays; random() selection |
+|  | 5b | Images as arrays of pixels; Transforms; |
+|  | 6a | Transformations: translate, rotate, scale; push() and pop() |
+|  | 6b | Midterm critique/laptop presentations; Introduction to 3D; primitive shapes, coordinate plane |
+| **Week 4** | 7a | 3D: advanced (lights, materials, loading models) |
+|  | 7b | Video (finding, adding, and using video methods); 3D advanced and video |
+|  | 8a | P5 sound library; amplitude; |
+|  | 8b | DOM and html5 |
+| **Week 5** | 9a | Presenting work through web; p5-notebook (jupyterlite) to html and web IDE; |
+|  | 9b | Work Time |
+| **Last Session** | 10a+b | Final Projects - In Class Showing | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
 
 <!-- outtakes
 lecXX - creating functions; curves(); 
@@ -115,7 +113,7 @@ Every week* you will have the following assignments:
 - 1 SOAR Reflection (Due with Project submission) ~ 15-30 minutes
 - 2 Peer reviews (of Projects) ~ 15-30 minutes
 
-*Towards the end of the semester, we’ll have one or two longer projects.
+*Towards the end of the quarter, we’ll have one or two longer projects.
 
 # Grading
 - 20% Labs (10 labs, graded on completion 5/5pts)
@@ -173,13 +171,20 @@ Answer at least two of the Peer Review questions below, in response to your peer
 - `Evaluate` - Is it successful? Does it explore the prompt in a compelling, interesting, or unique way?
 
 ## ICAM Policies
-File naming conventions and submissions. Name all files with appropriate identifying information. 
+### File naming conventions and submissions###
+
+For each assignment you will submit: 
+1. a link to a p5.js sketch
+2. a screenshot, thumbnail, or animated GIF of your project (~600x600pixels)
+3. a copy of your source code.
+
+Name your sketch and files with appropriate identifying information. 
 
 Elements include: 
 
 - Your name: _Lastname_ f.ex. _Twomey_
 - Assignment name: _Proj1_, _Lab1_, etc.
-- Optional project name: _Senecio_
+- Optional project name: _Klee-Senecio_
 
 So for the first lab, I would name my p5 sketch (in the p5 editor): 
 
@@ -187,9 +192,15 @@ So for the first lab, I would name my p5 sketch (in the p5 editor):
 
 And for the first project it might be: 
 
-> _Twomey-Proj1-Senecio_
+> _Twomey-Proj1-Klee-Senecio_
 
-**We will deduct 1-2 points for incorrect naming.** These are habits we expect you to continue in future ICAM courses. 
+The thumbnail might be: 
+
+> _Twomey-Proj1-Klee-Senecio.jpg_
+
+These are habits we expect you to continue in future ICAM courses. 
+
+**We will deduct 1-2 points for incorrect naming.** 
 
 ## Attendance
 On-time attendance is required as well as work inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor or justified with written documentation (e.g. letter from team, etc.). 
