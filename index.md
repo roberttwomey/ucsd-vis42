@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-# VIS 42 - Intro to Creative Code - Winter 2026
+# VIS 42 - Intro to Creative Code - Summer 2026
 [Schedule](#topics-and-schedule) | [Description](#description) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
 <div style="width: 100%; height: 200px; overflow: hidden; position: relative;">
@@ -20,9 +20,9 @@ This course provides students with a foundation in programming and computational
 ## Details
 
 - **Instructor**: Dr. Robert Twomey
-- **Class**: Tu/Th 9:30-10:50 AM
-- **Location**: Pepper Canyon Hall 122 ([map](https://map.concept3d.com/?id=1005#!m/553563?share))
-- **Office Hours**: TBD likely Wednesday 1-2pm on zoom/discord
+- **Class**: Tu/Th 9:30-12:20 PM
+- **Location**: Zoom (links on Canvas)
+- **Office Hours**: TBD likely Wednesday noon-2pm on zoom/discord
 
 ## Teaching Team
 - **Graduate TA**: Mavyn Vu
@@ -33,7 +33,7 @@ This course provides students with a foundation in programming and computational
 We will use the open source creative coding language [p5.js](https://p5js.org/) within a jupyterlite environment. Try it out [here](https://p5nb.vercel.app/tree/index.html)!
 
 # Resources
-- **Canvas**: [https://canvas.ucsd.edu/courses/69603/](https://canvas.ucsd.edu/courses/73114) 
+- **Canvas**: [TK](TK) 
 (_used for everything: daily announcements, links to lectures, assignments, discussions_)
 - **Notebooks**: See Canvas for link (_lectures and other resources are shared here as jupyter notebooks_)
 - **Discord**: See Canvas for link (_informal discussion, questions, peer support_)
@@ -72,29 +72,29 @@ At the end of the course, students will be able to:
 
 (this schedule will be refined as we go)
 
-| Week | Day | Topics |
+| Day | Session | Topics |
 | --- | --- | --- |
-| Week 1 | Jan 6 | What is creative code?; Why p5? <br> jupyter lite // p5 web editor; submitting homework |
-| | Jan 8 | 2D coordinate plane; using p5 drawing functions; shapes; colors; custom shapes; |
-| Week 2| Jan 13 | variables; operators; conditional statements (if); built-in variables ((mouseX, mouseY, width, height)|
-| | Jan 15 | arc() and map(); additional built-in variables (mouseIsPressed, keyIsPressed); if else; if/else if; |
-| Week 3 | Jan 20| complex conditionals (&&, \|\|, etc.); more map(); basic images (loadImage(), image()); |
-| | Jan 22 | GIFs and tint(); random(); mousePressed(); |
-| Week 4| Jan 27 | intro to loops; for loops; iteration| 
-| | Jan 29 | nested loops; complex visual patterning; patterning images; |
-| Week 5 | Feb 3 |  Arrays; iterating over arrays; random() selection | 
-| | Feb 5 | Images as arrays of pixels; Transforms; |
-| Week 6 | Feb 10 | Transformations: translate, rotate, scale; push() and pop() | 
-| | Feb 12 | Midterm critique/laptop presentations; Introduction to 3D; primitive shapes, coordinate plane|
-| Week 7 | Feb 17 | 3D: advanced (lights, materials, loading models) | 
-|  | Feb 19 |  Video (finding, adding, and using video methods); 3D advanced and video | 
-| Week 8 | Feb 24 | P5 sound library; amplitude; | 
-| | Feb 26 | DOM and html5 |
-| Week 9 | Mar 3 | deep dive on ml5 | 
-| | Mar 5 | p5live and spatialp5 |
-| Week 10 | Mar 10 | Presenting work through web; p5-notebook (jupyterlite) to html and web IDE; | 
-| | Mar 12 | Final Projects - In Class Showing | 
-| Finals Week | Mar 15 | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
+| Day 1 | Session 1 | What is creative code?; Why p5? <br> jupyter lite // p5 web editor; submitting homework |
+| | Session 2 | 2D coordinate plane; using p5 drawing functions; shapes; colors; custom shapes; |
+| Day 2 | Session 3 | variables; operators; conditional statements (if); built-in variables ((mouseX, mouseY, width, height) |
+| | Session 4 | arc() and map(); additional built-in variables (mouseIsPressed, keyIsPressed); if else; if/else if; |
+| Day 3 | Session 5 | complex conditionals (&&, \|\|, etc.); more map(); basic images (loadImage(), image()); |
+| | Session 6 | GIFs and tint(); random(); mousePressed(); |
+| Day 4 | Session 7 | intro to loops; for loops; iteration |
+| | Session 8 | nested loops; complex visual patterning; patterning images; |
+| Day 5 | Session 9 | Arrays; iterating over arrays; random() selection |
+| | Session 10 | Images as arrays of pixels; Transforms; |
+| Day 6 | Session 11 | Transformations: translate, rotate, scale; push() and pop() |
+| | Session 12 | Midterm critique/laptop presentations; Introduction to 3D; primitive shapes, coordinate plane |
+| Day 7 | Session 13 | 3D: advanced (lights, materials, loading models) |
+| | Session 14 | Video (finding, adding, and using video methods); 3D advanced and video |
+| Day 8 | Session 15 | P5 sound library; amplitude; |
+| | Session 16 | DOM and html5 |
+| Day 9 | Session 17 | deep dive on ml5 |
+| | Session 18 | p5live and spatialp5 |
+| Day 10 | Session 19 | Presenting work through web; p5-notebook (jupyterlite) to html and web IDE; |
+| | Session 20 | Final Projects - In Class Showing |
+| Finals / End of Term | | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
 
 <!-- outtakes
 lecXX - creating functions; curves(); 
@@ -118,19 +118,21 @@ Every week* you will have the following assignments:
 *Towards the end of the semester, we’ll have one or two longer projects.
 
 # Grading
-- 20% Labs (10 weekly labs, graded on completion 5/5pts)
-- 60% Projects (10 weekly homeworks, graded on concept, execution, experimentation 10/10pts)
+- 20% Labs (10 labs, graded on completion 5/5pts)
+- 60% Projects (10 homeworks, graded on concept, execution, experimentation 10/10pts)
   - two larger projects may take the place of homework.
-- 10% Reflections (10 weekly reflections, 1 per homework)
+- 10% Reflections (10 reflections, 1 per homework)
   - 2/2pts graded on completion, following SOAR format
-- 10% Participation (Peer Reviews, attendance)
+- 10% Participation (Peer Reviews, critique, attendance)
   - graded on completion
 
 ## Grading Scale
-A+ = 97-100 | A = 94-97 | A- = 90-94 <br>
-B+ = 87-90 | B = 84-87 | B- = 80-84 <br>
-C+ = 77-80 | C = 74-77 | C- = 70-74 <br>
-F = below 70%<br>
+| &nbsp; | &nbsp; | &nbsp; |
+| --- | --- | --- |
+| &nbsp; | A = 100-94 | A- = &lt;94-90 |
+| B+ = &lt;90-87 | B = &lt;87-84 | B- = &lt;84-80 |
+| C+ = &lt;80-77 | C = &lt;77-74 | C- = &lt;74-70 |
+| F = &lt;70% | &nbsp; | &nbsp; |
 
 ## Project Grading Details
 
@@ -171,12 +173,30 @@ Answer at least two of the Peer Review questions below, in response to your peer
 - `Evaluate` - Is it successful? Does it explore the prompt in a compelling, interesting, or unique way?
 
 ## ICAM Policies
-File naming conventions and submissions. More [TK].
+File naming conventions and submissions. Name all files with appropriate identifying information. 
+
+Elements include: 
+
+- Your name: _Lastname_ f.ex. _Twomey_
+- Assignment name: _Proj1_, _Lab1_, etc.
+- Optional project name: _Senecio_
+
+So for the first lab, I would name my p5 sketch (in the p5 editor): 
+
+> _Twomey-Lab1_
+
+And for the first project it might be: 
+
+> _Twomey-Proj1-Senecio_
+
+**We will deduct 1-2 points for incorrect naming.** These are habits we expect you to continue in future ICAM courses. 
 
 ## Attendance
-On-time attendance is required as well as work inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor, or justified with written documentation (e.g. letter from team, etc.). We do not differentiate between mental and physical health and in either case please be in communication for when you need to take a day off. **After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-).** Excessive tardiness or leaving early will also impact your grade and will follow the same rubric.
+On-time attendance is required as well as work inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor or justified with written documentation (e.g. letter from team, etc.). 
 
-On-time attendance is required. Lateness or leaving early, when not cleared with the instructor, will also impact your participation grade. Lateness will be counted as 80% for your participation grade for the day.
+We do not differentiate between mental and physical health and in either case please be in communication for when you need to take a day off. **After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-).** 
+
+Lateness or leaving early, when not cleared with the instructor, will also impact your participation grade. Lateness will be counted as 20% deduction from your grade for the day.
 
 ## Late Work 
 **Late Work Grading Policy**. Late work submissions will be docked 5% for each day they are late (if an assignment is two days late, the grade will be docked 10%). An assignment submitted after the due date time on the due date will still be docked 5%. 
@@ -198,7 +218,9 @@ Integrity of scholarship is essential for an academic community. The University 
 ### Generative AI
 **This includes generated code**. 
 
-You are allowed to use LLMs, [TritonGPT](https://blink.ucsd.edu/technology/ai/tritongpt/index.html), ChatGPT, Claude, Cursor, Antigravity, or other Generative AI tools as part of your coding process for this course, however **you must disclose this usage**. My goal is for you to learn to read, write, and understand code for creative work. To give us insight into your learning, understanding, and creative strategy, you must add comments in your code indicating your use of generative AI:
+You are allowed to use LLMs, [TritonGPT](https://blink.ucsd.edu/technology/ai/tritongpt/index.html), ChatGPT, Claude, Cursor, Antigravity, or other Generative AI tools as part of your coding process for this course, however **you must disclose this usage**. My goal is for you to learn to read, write, and understand code for creative work, but also acknowledges the reality that we will all likely use AI assistance coding in the future. 
+
+To give us insight into your learning, understanding, and creative strategy, you must add comments in your code indicating your use of generative AI:
 
 Guidlines for use of Generative AI
 1. You must cite your use of generative AI. This means using comments in your code to indicate (a) which parts were generated, (b) how you asked the system to help, and (c) why.
@@ -226,4 +248,4 @@ Students registered with the Office for Students with Disabilities are to provid
 This public acknowledgment serves to honor and respect Indigenous peoples and their land on which our campus resides. UC San Diego was built upon the territory of the Kumeyaay Nation. From time immemorial, the Kumeyaay people have been a part of this land. Today, the Kumeyaay people continue to maintain their political sovereignty and cultural traditions as vital members of the San Diego community.
 
 # References
-- [Code as a Creative Medium](https://mitpress.mit.edu/9780262542043/code-as-creative-medium/) by Tega Brain and Golan Levin (2021)
+- Textbook (recommended): [Code as a Creative Medium](https://mitpress.mit.edu/9780262542043/code-as-creative-medium/) by Tega Brain and Golan Levin (2021)
