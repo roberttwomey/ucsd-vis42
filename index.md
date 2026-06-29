@@ -72,27 +72,27 @@ At the end of the course, students will be able to:
 
 (this schedule will be refined as we go)
 
-| Week | Day | Topics |
-| --- | --- | --- |
-| **Week 1** | 1 | What is creative code?; Why p5? <br> jupyter lite // p5 web editor; submitting homework |
-| | 2 | 2D coordinate plane; using p5 drawing functions; shapes; colors; custom shapes; |
-| | 3 | variables; operators; conditional statements (if); built-in variables ((mouseX, mouseY, width, height) |
-| | 4 | arc() and map(); additional built-in variables (mouseIsPressed, keyIsPressed); if else; if/else if; |
-| **Week 2** | 5 | complex conditionals (&&, \|\|, etc.); more map(); basic images (loadImage(), image()); |
-|  | 6 | GIFs and tint(); random(); mousePressed(); |
-|  | 7 | intro to loops; for loops; iteration |
-|  | 8 | nested loops; complex visual patterning; patterning images; |
-| **Week 3** | 9 | Arrays; iterating over arrays; random() selection |
-|  | 10 | Images as arrays of pixels; Transforms; |
-|  | 11 | Transformations: translate, rotate, scale; push() and pop() |
-|  | 12 | Midterm critique/laptop presentations; Introduction to 3D; primitive shapes, coordinate plane |
-| **Week 4** | 13 | 3D: advanced (lights, materials, loading models) |
-|  | 14 | Video (finding, adding, and using video methods); 3D advanced and video |
-|  | 15 | P5 sound library; amplitude; |
-|  | 16 | DOM and html5 |
-| **Week 5** | 17 | Presenting work through web; p5-notebook (jupyterlite) to html and web IDE; |
-|  | 18 | Work Time |
-| **Final Session** | 19+20 | Final Projects - In Class Showing | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
+| Week | Day | Lesson | Topics |
+| --- | --- | --- | --- |
+| **Week 1** | Tuesday 6/30 | 1 | What is creative code?; Why p5? <br> jupyter lite // p5 web editor; submitting homework |
+| | | 2 | 2D coordinate plane; using p5 drawing functions; shapes; colors; custom shapes; |
+| | Thursday 7/2| 3 | variables; operators; conditional statements (if); built-in variables ((mouseX, mouseY, width, height) |
+| | |  4 | arc() and map(); additional built-in variables (mouseIsPressed, keyIsPressed); if else; if/else if; |
+| **Week 2** | Tuesday 7/7 | 5 | complex conditionals (&&, \|\|, etc.); more map(); basic images (loadImage(), image()); |
+|  |  | 6 | GIFs and tint(); random(); mousePressed(); |
+|  | Thursday 7/9 | 7 | intro to loops; for loops; iteration |
+|  | | 8 | nested loops; complex visual patterning; patterning images; |
+| **Week 3** | Tuesday 7/14 | 9 | Arrays; iterating over arrays; random() selection |
+|  | | 10 | Images as arrays of pixels; Transforms; |
+|  | Thursday 7/16 | 11 | Transformations: translate, rotate, scale; push() and pop() |
+|  | | 12 | Midterm critique/laptop presentations; Introduction to 3D; primitive shapes, coordinate plane |
+| **Week 4** | Tuesday 7/21 | 13 | 3D: advanced (lights, materials, loading models) |
+|  | | 14 | Video (finding, adding, and using video methods); 3D advanced and video |
+|  | Thursday 7/23 | 15 | P5 sound library; amplitude; |
+|  | | 16 | DOM and html5 |
+| **Week 5** | Tuesday 7/28 | 17 | Presenting work through web; p5-notebook (jupyterlite) to html and web IDE; |
+|  |  | 18 | Work Time |
+| **Final Session** | Thursday 7/30 | 19+20 | Final Projects - In Class Showing | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
 
 <!-- outtakes
 lecXX - creating functions; curves(); 
