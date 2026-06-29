@@ -74,25 +74,25 @@ At the end of the course, students will be able to:
 
 | Week | Day | Topics |
 | --- | --- | --- |
-| **Week 1** | 1a | What is creative code?; Why p5? <br> jupyter lite // p5 web editor; submitting homework |
-| | 1b | 2D coordinate plane; using p5 drawing functions; shapes; colors; custom shapes; |
-| | 2a | variables; operators; conditional statements (if); built-in variables ((mouseX, mouseY, width, height) |
-| | 2b | arc() and map(); additional built-in variables (mouseIsPressed, keyIsPressed); if else; if/else if; |
-| **Week 2** | 3a | complex conditionals (&&, \|\|, etc.); more map(); basic images (loadImage(), image()); |
-|  | 3b | GIFs and tint(); random(); mousePressed(); |
-|  | 4a | intro to loops; for loops; iteration |
-|  | 4b | nested loops; complex visual patterning; patterning images; |
-| **Week 3** | 5a | Arrays; iterating over arrays; random() selection |
-|  | 5b | Images as arrays of pixels; Transforms; |
-|  | 6a | Transformations: translate, rotate, scale; push() and pop() |
-|  | 6b | Midterm critique/laptop presentations; Introduction to 3D; primitive shapes, coordinate plane |
-| **Week 4** | 7a | 3D: advanced (lights, materials, loading models) |
-|  | 7b | Video (finding, adding, and using video methods); 3D advanced and video |
-|  | 8a | P5 sound library; amplitude; |
-|  | 8b | DOM and html5 |
-| **Week 5** | 9a | Presenting work through web; p5-notebook (jupyterlite) to html and web IDE; |
-|  | 9b | Work Time |
-| **Last Session** | 10a+b | Final Projects - In Class Showing | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
+| **Week 1** | 1 | What is creative code?; Why p5? <br> jupyter lite // p5 web editor; submitting homework |
+| | 2 | 2D coordinate plane; using p5 drawing functions; shapes; colors; custom shapes; |
+| | 3 | variables; operators; conditional statements (if); built-in variables ((mouseX, mouseY, width, height) |
+| | 4 | arc() and map(); additional built-in variables (mouseIsPressed, keyIsPressed); if else; if/else if; |
+| **Week 2** | 5 | complex conditionals (&&, \|\|, etc.); more map(); basic images (loadImage(), image()); |
+|  | 6 | GIFs and tint(); random(); mousePressed(); |
+|  | 7 | intro to loops; for loops; iteration |
+|  | 8 | nested loops; complex visual patterning; patterning images; |
+| **Week 3** | 9 | Arrays; iterating over arrays; random() selection |
+|  | 10 | Images as arrays of pixels; Transforms; |
+|  | 11 | Transformations: translate, rotate, scale; push() and pop() |
+|  | 12 | Midterm critique/laptop presentations; Introduction to 3D; primitive shapes, coordinate plane |
+| **Week 4** | 13 | 3D: advanced (lights, materials, loading models) |
+|  | 14 | Video (finding, adding, and using video methods); 3D advanced and video |
+|  | 15 | P5 sound library; amplitude; |
+|  | 16 | DOM and html5 |
+| **Week 5** | 17 | Presenting work through web; p5-notebook (jupyterlite) to html and web IDE; |
+|  | 18 | Work Time |
+| **Final Session** | 19+20 | Final Projects - In Class Showing | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
 
 <!-- outtakes
 lecXX - creating functions; curves(); 
@@ -103,13 +103,13 @@ OOP or other advanced topics
 ## Assignments
 Every week* you will have the following assignments: 
 - 1 Lab
-  - Assigned during Tuesday class
+  - Assigned first half of session
   - ~1-2 hour
-  - Due before Thursday Class
+  - Due before next class
 - 1 Project 
-  - Assigned during Thursday class 
+  - Assigned during second half of session
   - ~ 3-5 hours
-  - Due Tuesday before class
+  - Due by next week
 - 1 SOAR Reflection (Due with Project submission) ~ 15-30 minutes
 - 2 Peer reviews (of Projects) ~ 15-30 minutes
 
