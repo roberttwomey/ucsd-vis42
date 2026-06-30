@@ -17,40 +17,45 @@ layout: default
 
 This course provides students with a foundation in programming and computational thinking, and their application in creative projects. Topics covered may include generative graphics and sound, interactive media, and others. Students will gain practical skills through hands-on experience and experimentation, learning to integrate computing into artistic practices. No prior programming experience is required.
 
+**Prerequisites**: None
+
 ## Details
 
 - **Instructor**: Dr. Robert Twomey
 - **Class**: Tu/Th 9:30-12:20 PM
-- **Location**: Zoom (links on Canvas)
+- **Location**: Zoom (link is on Canvas)
 - **Office Hours**: TBD likely Wednesday noon-2pm on zoom/discord
 
 ## Teaching Team
 - **Graduate TA**: Mavyn Vu
 
-**Prerequisites**: None
-
 # Tools
 We will use the open source creative coding language [p5.js](https://p5js.org/) within a jupyterlite environment. Try it out [here](https://p5nb.vercel.app/tree/index.html)!
 
-# Resources
-- **Canvas**: [TK](TK) 
-(_used for everything: daily announcements, links to lectures, assignments, discussions_)
+## Resources
+- **Zoom**: See Canvas for link (_remote instruction_, _individual meetings with me_)
+- **Canvas**: [https://canvas.ucsd.edu/courses/76484/](https://canvas.ucsd.edu/courses/76484/) (_used for everything: daily announcements, links to lectures, assignments, discussions_)
 - **Notebooks**: See Canvas for link (_lectures and other resources are shared here as jupyter notebooks_)
 - **Discord**: See Canvas for link (_informal discussion, questions, peer support_)
-- **Zoom**: See Canvas for link (_for individual meetings with me, any remote instruction_)
 
 ## Required Materials
 You will need to bring a laptop or other computer. I recommend a notebook specifically for taking notes, drawing ideas, “writing” code, etc.
 
 # Format
+
+Everything below is paced for a 10 week quarter. For summer session the expectation is x2 (we are covering the same material at twice the rate):
+
 - Plan to spend ~9 hours outside of class on coursework each week. (4 credit course ~ 12 hours of work time)
    - Labs -  ~1-2 hour
    - Projects -  ~3-5 hours
    - Reflection, peer reviews - .5 hour
-- Each week, you will have a lab, a project, and some weeks you will have peer reviews.
-   - Labs are due before Thursday’s class.
-   - Projects are due Monday night at midnight.
-   - Peer reviews are due before Thursday’s class (you have from Tuesday morning - Thursday before class)
+
+## Timeline
+
+- Each week, you will have a lab, a project, and peer reviews.
+   - Labs are due before the next class. (i.e. Tuesday lab is due Thursday 9:30am, Thursday lab due Tuesday 9:30am)
+   - Projects are due Monday night at 11:59pm.
+   - Peer reviews on projects are due end of week (you have from Tuesday morning to Friday end of day)
 - Late work will be penalized. **See [Late Work](#late-work) policy below.**
 
 The emphasis of this class is on regular, weekly coding practice, self-expression, reflection, and peer community/support.
@@ -70,29 +75,30 @@ At the end of the course, students will be able to:
 
 # Topics and Schedule
 
-(this schedule will be refined as we go)
+(this schedule will be tweaked as we go)
 
 | Week | Day | Lesson | Topics |
 | --- | --- | --- | --- |
-| **Week 1** | Tuesday 6/30 | 1 | What is creative code?; Why p5? <br> jupyter lite // p5 web editor; submitting homework |
-| | | 2 | 2D coordinate plane; using p5 drawing functions; shapes; colors; custom shapes; |
-| | Thursday 7/2| 3 | variables; operators; conditional statements (if); built-in variables ((mouseX, mouseY, width, height) |
+| **Week 1** | Tuesday 6/30 | 1 | What is creative code?; Why p5? <br> jupyter lite // p5 web editor; submitting homework; |
+| | | 2 | 2D coordinate plane; using p5 drawing functions; shapes; colors; custom shapes |
+| | Thursday 7/2| 3 | variables; operators; conditional statements (if); built-in variables (mouseX, mouseY, width, height); |
 | | |  4 | arc() and map(); additional built-in variables (mouseIsPressed, keyIsPressed); if else; if/else if; |
 | **Week 2** | Tuesday 7/7 | 5 | complex conditionals (&&, \|\|, etc.); more map(); basic images (loadImage(), image()); |
 |  |  | 6 | GIFs and tint(); random(); mousePressed(); |
-|  | Thursday 7/9 | 7 | intro to loops; for loops; iteration |
-|  | | 8 | nested loops; complex visual patterning; patterning images; |
+|  | Thursday 7/9 | 7 | intro to loops; for loops; iteration; |
+|  | | 8 | nested loops; complex visual patterning; patterning images |
 | **Week 3** | Tuesday 7/14 | 9 | Arrays; iterating over arrays; random() selection |
-|  | | 10 | Images as arrays of pixels; Transforms; |
+|  | | 10 | Images as arrays of pixels; Transforms |
 |  | Thursday 7/16 | 11 | Transformations: translate, rotate, scale; push() and pop() |
-|  | | 12 | Midterm critique/laptop presentations; Introduction to 3D; primitive shapes, coordinate plane |
-| **Week 4** | Tuesday 7/21 | 13 | 3D: advanced (lights, materials, loading models) |
+|  | | 12 | Midterm critique/presentations; Introduction to 3D; primitive shapes, coordinate plane |
+| **Week 4** | Tuesday 7/21 | 13 | 3D: advanced (lights, materials, loading models); |
 |  | | 14 | Video (finding, adding, and using video methods); 3D advanced and video |
-|  | Thursday 7/23 | 15 | P5 sound library; amplitude; |
+|  | Thursday 7/23 | 15 | P5 sound library; amplitude |
 |  | | 16 | DOM and html5 |
-| **Week 5** | Tuesday 7/28 | 17 | Presenting work through web; p5-notebook (jupyterlite) to html and web IDE; |
-|  |  | 18 | Work Time |
-| **Final Session** | Thursday 7/30 | 19+20 | Final Projects - In Class Showing | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
+| **Week 5** | Tuesday 7/28 | 17 | deep dive on ml5 | 
+| | | 18 | p5live and spatialp5 |
+| **Final Session** | Thursday 7/30 | 19+20 | Final Projects - In Class Showing | 
+| **End of Term** | | | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
 
 <!-- outtakes
 lecXX - creating functions; curves(); 
@@ -200,7 +206,7 @@ The thumbnail might be:
 
 These are habits we expect you to continue in future ICAM courses. 
 
-**We will deduct 1-2 points for incorrect naming.** 
+**We will deduct 1-2 points for incorrect naming and missing elements.** 
 
 ## Attendance
 On-time attendance is required as well as work inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor or justified with written documentation (e.g. letter from team, etc.). 
