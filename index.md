@@ -98,7 +98,7 @@ At the end of the course, students will be able to:
 | **Week 5** | Tuesday 7/28 | 17 | deep dive on ml5 | 
 | | | 18 | p5live and spatialp5 |
 | **Final Session** | Thursday 7/30 | 19+20 | Final Projects - In Class Showing | 
-| **End of Term** | | | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
+| **End of Grading** | Sunday 8/2 | | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
 
 <!-- outtakes
 lecXX - creating functions; curves(); 
@@ -131,6 +131,7 @@ Every week* you will have the following assignments:
   - graded on completion
 
 ## Grading Scale
+
 | &nbsp; | &nbsp; | &nbsp; |
 | --- | --- | --- |
 | &nbsp; | A = 100-94 | A- = &lt;94-90 |
