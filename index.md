@@ -132,12 +132,12 @@ Every week* you will have the following assignments:
 
 ## Grading Scale
 
-| &nbsp; | &nbsp; | &nbsp; |
+| | |  |
 | --- | --- | --- |
-| &nbsp; | A = 100-94 | A- = &lt;94-90 |
+| | A = 100-94 | A- = &lt;94-90 |
 | B+ = &lt;90-87 | B = &lt;87-84 | B- = &lt;84-80 |
 | C+ = &lt;80-77 | C = &lt;77-74 | C- = &lt;74-70 |
-| F = &lt;70% | &nbsp; | &nbsp; |
+| F = &lt;70% | | |
 
 ## Project Grading Details
 
