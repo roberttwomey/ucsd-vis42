@@ -132,7 +132,7 @@ Every week* you will have the following assignments:
 
 ## Grading Scale
 
-| | |  |
+| | | |
 | --- | --- | --- |
 | | A = 100-94 | A- = &lt;94-90 |
 | B+ = &lt;90-87 | B = &lt;87-84 | B- = &lt;84-80 |
