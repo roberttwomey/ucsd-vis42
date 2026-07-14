@@ -87,11 +87,11 @@ At the end of the course, students will be able to:
 |  |  | 6 | GIFs and tint(); random(); mousePressed(); |
 |  | Thursday 7/9 | 7 | intro to loops; for loops; iteration; |
 |  | | 8 | nested loops; complex visual patterning; patterning images |
-| **Week 3** | Tuesday 7/14 | 9 | Arrays; iterating over arrays; random() selection |
-|  | | 10 | Images as arrays of pixels; Transforms |
-|  | Thursday 7/16 | 11 | Transformations: translate, rotate, scale; push() and pop() |
-|  | | 12 | Midterm critique/presentations; Introduction to 3D; primitive shapes, coordinate plane |
-| **Week 4** | Tuesday 7/21 | 13 | 3D: advanced (lights, materials, loading models); |
+| **Week 3** | Tuesday 7/14 | 9 | Arrays; random() selection; looping over arrays; systems of visual choices |
+|  | | 10 | Images as arrays of pixels; Transforms; mind-mapping |
+|  | Thursday 7/16 | 11 | more transformations: translate, rotate, scale; push() and pop(); |
+|  | | 12 | Introduction to 3D; 3d shapes and transforms |
+| **Week 4** | Tuesday 7/21 | 13 | **Midterm critique/presentations**; 3D: advanced (lights, materials, loading models); |
 |  | | 14 | Video (finding, adding, and using video methods); 3D advanced and video |
 |  | Thursday 7/23 | 15 | P5 sound library; amplitude |
 |  | | 16 | DOM and html5 |
@@ -189,21 +189,21 @@ Name your sketch and files with appropriate identifying information.
 
 Elements include: 
 
-- Your name: _Lastname_ f.ex. _Twomey_
-- Assignment name: _Proj1_, _Lab1_, etc.
-- Optional project name: _Klee-Senecio_
+- Your name: _Firstinitiallastname_ f.ex. _rtwomey_
+- Assignment name: _proj01_, _lab01_, etc.
+- Optional project name or details: _klee-senecio_
 
 So for the first lab, I would name my p5 sketch (in the p5 editor): 
 
-> _Twomey-Lab1_
+> _rtwomey_lab1_
 
-And for the first project it might be: 
+And for the first project it would be: 
 
-> _Twomey-Proj1-Klee-Senecio_
+> _rtwomey_proj1_
 
 The thumbnail might be: 
 
-> _Twomey-Proj1-Klee-Senecio.jpg_
+> _rtwomey_proj1.jpg_
 
 These are habits we expect you to continue in future ICAM courses. 
 
