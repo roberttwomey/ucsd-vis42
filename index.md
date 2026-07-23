@@ -91,11 +91,12 @@ At the end of the course, students will be able to:
 |  | | 10 | Images as arrays of pixels; Transforms; mind-mapping |
 |  | Thursday 7/16 | 11 | more transformations: translate, rotate, scale; push() and pop(); |
 |  | | | Individual Check-Ins |
-| **Week 4** | Tuesday 7/21 | 12 | **Midterm critique/presentations**; Introduction to 3D; 3d shapes and transforms|
-|  | | 13 | 3D: advanced (lights, materials, loading models); |
-|  | Thursday 7/23 | 14 | Video (finding, adding, and using video methods); 3D advanced and video |
-|  | | 15 | P5 sound library; amplitude |
-| **Week 5** | Tuesday 7/28 | 16+17 | DOM and html5; deep dive on ml5; | 
+| **Week 4** | Tuesday 7/21 | | **Midterm critique/presentations**; |
+|  | | 12 | Introduction to 3D; 3d shapes and transforms |
+|  | Thursday 7/23 | 13 | 3D: advanced (lights, materials, loading models);|
+|  | | 14 | Video (finding, adding, and using video methods); 3D advanced and video |
+| **Week 5** | Tuesday 7/28 | 15 | P5 sound library; amplitude |
+| | | 16+17 | DOM and html5; deep dive on ml5; | 
 | | | 18 | p5live and spatialp5 |
 | **Final Session** | Thursday 7/30 | 19+20 | Final Projects - In Class Showing | 
 | **End of Grading** | Sunday 8/2 | | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
