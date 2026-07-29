@@ -96,12 +96,13 @@ At the end of the course, students will be able to:
 |  | Thursday 7/23 | 13 | 3D: advanced (lights, materials, loading models);|
 |  | | 14 | Video (finding, adding, and using video methods); 3D advanced and video |
 | **Week 5** | Tuesday 7/28 | 15 | P5 sound library; amplitude |
-| | | 16+17 | DOM and html5; deep dive on ml5; | 
-| | | 18 | p5live and spatialp5 |
-| **Final Session** | Thursday 7/30 | 19+20 | Final Projects - In Class Showing | 
-| **End of Grading** | Sunday 8/2 | | All late work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
+| | | 16 | DOM and html5; |
+| **Final Session** | Thursday 7/30 | 17 | ml5; p5live, spatialp5 |
+| | | 18 | Final Projects - Individual Check-Ins | 
+| **End of Grading** | Sunday 8/2 | | All work due end of day (11:59pm) Sunday for partial credit. EMAIL TA to request regrades. |
 
 <!-- outtakes
+| | | 18 | p5live and spatialp5 |
 lecXX - creating functions; curves(); 
 
 OOP or other advanced topics 
